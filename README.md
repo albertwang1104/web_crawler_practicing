@@ -1,14 +1,15 @@
 # Practicing Web Crawler By Spodify
 
+I learned python web crawler from IT邦幫忙
+> [爬蟲在手、資料我有 - 30 天 Scrapy 爬蟲實戰 系列](https://ithelp.ithome.com.tw/users/20107875/ironman/2209)
+
+### Welcome to the world of K-pop, you will love it. 
+> [Top K-Pop Tracks of 2O2O | Spotify Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8NzI27ip7J0)
+
 ## Requestments
 * requests
 * BeautifulSoup
 
-> I learned python web crawler from IT邦幫忙
->> [爬蟲在手、資料我有 - 30 天 Scrapy 爬蟲實戰 系列](https://ithelp.ithome.com.tw/users/20107875/ironman/2209)
-
-> Welcome to the world of K-pop. 
->> [Top K-Pop Tracks of 2O2O | Spotify Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8NzI27ip7J0)
 
 ## Final results
 
