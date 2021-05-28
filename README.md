@@ -13,15 +13,15 @@
 
 ## Final results
 
-RANK |SINGER     |SONG
-----|-----------|---------
- 1. |BTS        |Dynamite     
- 2. |BLACKPINK  |How You Like That
- 3. |BTS        |Boy With Luv (feat. Halsey)
- 4. |BLACKPINK  |Ice Cream (with Selena Gomez)
- 5. |BTS        |Black Swan   
- 6. |BTS        |ON           
- 7. |Lady Gaga  |Sour Candy (with BLACKPINK)
+|RANK |SINGER     |SONG
+|----|-----------|---------
+| 1. |BTS        |Dynamite     
+| 2. |BLACKPINK  |How You Like That
+| 3. |BTS        |Boy With Luv (feat. Halsey)
+| 4. |BLACKPINK  |Ice Cream (with Selena Gomez)
+| 5. |BTS        |Black Swan   
+| 6. |BTS        |ON           
+| 7. |Lady Gaga  |Sour Candy (with BLACKPINK)
  8. |BLACKPINK  |Kill This Love
  9. |Red Velvet |Psycho       
 10. |ITZY       |WANNABE      
