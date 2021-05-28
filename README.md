@@ -13,7 +13,7 @@
 
 ## Final results
 
-RANK|SINGER     |SONG
+RANK |SINGER     |SONG
 ----|-----------|---------
  1. |BTS        |Dynamite     
  2. |BLACKPINK  |How You Like That
